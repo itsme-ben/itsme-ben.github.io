@@ -23,5 +23,5 @@ highlighter: rouge
 lsi: false
 description: your resume
 baseurl: ""
-url: https://github.com/itsme-ben/about/
+url: https://itsme-ben.github.io/about
 color: "#f2f2f2"
