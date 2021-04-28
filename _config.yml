@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: your resume
-baseurl: "itsme-ben.github.io"
+baseurl: "about"
 url: https://itsme-ben.github.io/
 color: "#f2f2f2"
